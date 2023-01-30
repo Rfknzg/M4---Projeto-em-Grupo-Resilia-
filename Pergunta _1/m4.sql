@@ -6,7 +6,6 @@ SELECT * FROM houses_v1;
 SELECT DISTINCT house_name FROM houses_v1;
 
 -- Quais episódios melhor e pior avaliados? --
-
 SELECT * FROM got_episodes_v4; 
 SELECT MAX(rating) AS FavoritoDaGalera FROM got_episodes_v4; 
 SELECT MIN(rating) AS NãoFavorito FROM got_episodes_v4;
