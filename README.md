@@ -5,13 +5,14 @@ Para isto, a Resilia disponibilizou alguns conjuntos de dados, do qual foi escol
  
  
 <h4> Game Of Thrones, também apelidada como GOT é uma série norte-americana lançada no ano de 2011 e finalizada no ano de 2019 possuindo 8 temporadas, com total de 73 episódios. </h4>
-   <p> <h4>Do conjunto de dados selecionados foram utilzadas as 3 entidades disponíveis: got_episodes_v4, houses_v1 e characters_v4 </h4> <p/>  
-     ________________________________________________________________________________________________
+<p> <h4>Do conjunto de dados selecionados foram utilzadas as 3 entidades disponíveis: got_episodes_v4, houses_v1 e characters_v4 </h4> <p/> 
+________________________________________________________________________________________________________________________________________________________
+
   
      
      
      
-<img src = "https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/GameofThrones%20FOTO%20PRINCIPAL.jpg?raw=true">
+<div align="center"><img src = "https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/GameofThrones%20FOTO%20PRINCIPAL.jpg?raw=true"></div>
 
 
 
@@ -77,7 +78,7 @@ Para isto, a Resilia disponibilizou alguns conjuntos de dados, do qual foi escol
 
 ____________________________________________________________________________________________
 
-<img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/bandeira%20do%20leao.png?raw=true">
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/bandeira%20do%20leao.png?raw=true"></div>
 <h2>⚔Ferramentas utilizadas🤺</h2>
 <li>MySql Workbench, Power BI, GIT e Github Desktop.</li>
 
@@ -91,5 +92,5 @@ ________________________________________________________________________________
 <p>👾CASSIANO (Colaborador)</p>
 <p>👾RUAN (Gestor de conflitos)</p>
 <p>👾RAFAELLE (Colaborador)</p>
-  <img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/trono%20img.png?raw=true">
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/trono%20img.png?raw=true">
 
