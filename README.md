@@ -6,15 +6,12 @@ Para isto, a Resilia disponibilizou alguns conjuntos de dados, do qual foi escol
  
 <h4> Game Of Thrones, também apelidada como GOT é uma série norte-americana lançada no ano de 2011 e finalizada no ano de 2019 possuindo 8 temporadas, com total de 73 episódios. </h4>
 <p> <h4>Do conjunto de dados selecionados foram utilzadas as 3 entidades disponíveis: got_episodes_v4, houses_v1 e characters_v4 </h4> <p/> 
-____________________________________________________________________________________________
+
   
      
      
      
-<div align="center"><img src = "https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/GameofThrones%20FOTO%20PRINCIPAL.jpg?raw=true"></div>
-
-
-
+<div align="center"><img src = "https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/Logo_Game_of_Thrones.png?raw=true"></div>
 
 
 
