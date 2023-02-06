@@ -22,57 +22,20 @@ ________________________________________________________________________________
 <h2> 🤺Perguntas e respostas sobre nosso banco de dados: </h2>
 
 
-<li>Quais personagens/atores tiveram mais aparições no decorrer da série? </li>
+<h3><div align="center">  1. Quais episódios possuem maior audiência da série (nos Estados Unidos)? </h3></div>
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta%20_1/M%C3%A9dia_view_por_ep_season.PNG?raw=true">
 
-<h6>SELECT * FROM characters_v4;</h6>
-<h6>SELECT roles, actor, episodes_appeared</h6>
-<h6>FROM characters_v4</h6>
-<h6>LIMIT 20;</h6>
 
-<li>  Quais episódios possuem maior audiência da série (nos Estados Unidos)? </li>
-<h6> SELECT * FROM got_episodes_v4;</h6>
-<h6>SELECT season, episode, title, us_viewers</h6>
-<h6>FROM got_episodes_v4</h6>
-<h6>ORDER by us_viewers DESC</h6>
-<h6>LIMIT 20; </h6>
+<h3> 2. Quais episódios possuem menor audiência da série (nos Estados Unidos)? </h3>
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_2/M%C3%A9dia_view_por_ep_season_value_baixa.PNG?raw=true"></div>
 
-<li>Qual a distribuição de episódios por diretor responsável? </li>
-<h6>SELECT * FROM got_episodes_v4;</h6>
-<h6>SELECT COUNT(episode) as episodes_by, director</h6>
-<h6>FROM got_episodes_v4</h6>
-<h6>group by director</h6>
-<h6>ORDER BY COUNT(episode) DESC</h6>
-<h6>LIMIT 15;</h6>
+<div align="center"><h3> 3. Qual é a quantidade de casas por região? </h3></div>
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_3/Quantidade_de_casas_por_regi%C3%A3o.PNG?raw=true"></div>
+<div align="center"><h3>4. Quais episódios possuem a avaliação mais alta?</h3></div>
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_4/Avali%C3%A7%C3%A3o_mais_alta_por_episodio.PNG?raw=true"></div>
 
-<li> Quais episódios possuem menor audiência da série (nos Estados Unidos)? </li>
-<h6>SELECT * FROM got_episodes_v4;</h6>
-<h6>SELECT season, episode, title, us_viewers</h6>
-<h6>FROM got_episodes_v4</h6>
-<h6>ORDER by us_viewers ASC</h6>
-<h6>LIMIT 20;</h6>
-
-<li> Qual é a quantidade de casas por região? </li>
-<h6> SELECT * FROM houses_v1;</SELECT region, COUNT(house_name) as houses</h6>
-<h6>FROM houses_v1</h6>
-<h6>GROUP BY region</h6>
-<h6>ORDER BY COUNT(house_name) DESC</h6>
-<h6>LIMIT 20;</h6>
-
-<li>Quais episódios possuem a avaliação mais alta?<?li>
-
-<h6>SELECT * FROM got_episodes_v4;</h6>
-<h6>SELECT season, episode, title, rating</h6>
-<h6>FROM  got_episodes_v4</h6>
-<h6>ORDER BY rating DESC</h6>
-<h6>LIMIT 10;</h6>
-
-<li> Quais episódios possuem a avaliação mais baixa?</li>
-
-<h6>SELECT * FROM got_episodes_v4;</h6>
-<h6>SELECT season, episode, title, rating</h6>
-<h6>FROM  got_episodes_v4</h6>
-<h6>ORDER BY rating ASC</h6>
-<h6>LIMIT 10;<h6/>
+<div align="center"><h3>5. Quais episódios possuem a avaliação mais baixa?</h3></div>
+<div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_5/Avali%C3%A7%C3%A3o_mais_baixa_por_episodio.PNG?raw=true"></div>
 
 
 ____________________________________________________________________________________________
