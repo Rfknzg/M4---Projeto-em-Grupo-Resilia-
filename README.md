@@ -43,7 +43,7 @@ Para isto, a Resilia disponibilizou alguns conjuntos de dados, do qual foi escol
 ____________________________________________________________________________________________
 
 <div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/bandeira%20do%20leao.png?raw=true"></div>
-<h2>⚔Ferramentas utilizadas🤺</h2>
+<h2>⚔ Ferramentas utilizadas ⚔</h2>
 <li>MySql Workbench, Power BI, GIT e Github Desktop.</li>
 
 
