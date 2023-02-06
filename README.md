@@ -53,8 +53,8 @@ ________________________________________________________________________________
 <h2> ⚔⚔SQUAD FORMADO POR 5 DESENVOLVEDORES⚔⚔ </h2>
 <p>👾RAFIKI (Co-Facilitador)</p>
 <p>👾KAUANY (Gestora de conhecimento)</p>
-<p>👾CASSIANO (Colaborador)</p>
 <p>👾RUAN (Gestor de conflitos)</p>
+<p>👾CASSIANO (Colaborador)</p>
 <p>👾RAFAELLE (Colaborador)</p>
 <div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/IMG/trono%20img.png?raw=true">
 
