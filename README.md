@@ -37,6 +37,11 @@ ________________________________________________________________________________
 <div align="center"><h3>5. Quais episódios possuem a avaliação mais baixa?</h3></div>
 <div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_5/Avali%C3%A7%C3%A3o_mais_baixa_por_episodio.PNG?raw=true"></div>
 
+ <div align="center"><h3>6. Qual a distribuição de episódios por diretor responsável?</h3></div>
+ <div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_6/Ep_por_diretores_diferentes.PNG?raw=true">
+  
+ <div align"center"><h3>7. Quais personagens/atores tiveram mais aparições no decorrer da série?</h3></div> 
+ <div align="center"><img src="https://github.com/Rfknzg/M4---Projeto-em-Grupo-Resilia-/blob/main/Perguntas/Pergunta_7/apari%C3%A7%C3%B5es_de_atores_e_atrizes_por_epis%C3%B3dio.PNG?raw=true"></div> 
 
 ____________________________________________________________________________________________
 
